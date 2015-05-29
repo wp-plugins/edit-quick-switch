@@ -1,6 +1,6 @@
-=== Go Redirects ===
+=== Edit Quick Switch ===
 
-Contributors: galengidman
+Contributors: GalenGidman
 Tags: edit, admin, wordpress admin, cpt, custom post type, post, page, ux, edit post, edit page, edit custom post type, switch page, switch post, switch custom post type
 Requires at least: 3.1.0
 Tested up to: 4.2.2
@@ -19,6 +19,8 @@ This plugin adds a searchable dropdown to post, page, and custom post type edit 
 Upload and activate the plugin.
 
 == Screenshots ==
+
+1. The admin interface.
 
 == Changelog ==
 
